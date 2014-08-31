@@ -48,3 +48,8 @@ frontend-tools
 22.[在线制作正则表达式](http://www.jslab.dk/tools.regex.php)
 
 23.[Live Http Header](https://addons.mozilla.org/zh-CN/firefox/addon/live-http-headers/)  live HTTP headers是firefox的一个插件，可以查看到http头，非常方便
+
+24.[网络收藏设计师网站导航](http://so.uehtml.com/)
+
+25.[程序员/设计师能用上的 75 份速查表 ](http://www.admin10000.com/document/4177.html)
+
